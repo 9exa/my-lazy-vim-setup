@@ -1,5 +1,5 @@
 local M = {
   require("plugins.langs.rust"),
-  require("plugins.langs.godot"),
+  require("plugins.langs.gdscript"),
 }
 return M
